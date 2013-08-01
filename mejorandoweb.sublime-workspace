@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fol",
+				"follower_id"
+			],
+			[
+				"factor",
+				"factories"
+			],
+			[
+				"get",
+				"getCustomers"
+			],
+			[
+				"controller",
+				"controllers"
+			],
+			[
+				"selecte",
+				"selectedRow"
+			],
+			[
+				"Sho",
+				"ShoppingCartModule"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"on",
+				".on	.on()"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"Val",
+				"value2"
+			],
+			[
+				"val",
+				"value2"
+			],
+			[
+				"value",
+				"value1"
+			],
+			[
+				"call_",
+				"call_user_func_array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"scr",
+				"Snippet: script-src"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"scri",
+				"Snippet: script-src"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"script",
+				"Snippet: script-src"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html	",
+				"Snippet: html"
+			],
+			[
+				"class",
+				"Snippet: class"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jquery on",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"jq",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"snippet if",
+				"Snippet: <?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Uziel/Sites/mejorandoweb/normalize.css",
+		"/Users/Uziel/Sites/mejorandoweb/estilos.css",
+		"/Users/Uziel/Sites/mejorandoweb/index.html",
+		"/Users/Uziel/Documents/python/presupuesto.py",
+		"/Users/Uziel/Documents/mejorandoweb/index.html",
+		"/Users/Uziel/Documents/mejorandoweb/estilos.css",
+		"/Users/Uziel/Documents/mejorandoweb/archivos/544/estilos_7.css",
+		"/Users/Uziel/Documents/mejorandoweb/archivos/544/estilos.css",
+		"/Users/Uziel/Sites/angularJS/FirstExample.html",
+		"/Users/Uziel/Sites/angularJS/AngularJSDemos/AngularJSDemos/CustomerManagementApp.html",
+		"/Users/Uziel/Sites/angularJS/AngularModuleDemo.html",
+		"/Users/Uziel/Sites/angularJS/AngularModuleDemo.js",
+		"/Users/Uziel/Sites/angularJS/Partials/View1.html",
+		"/Users/Uziel/Sites/angularJS/Partials/View2.html",
+		"/Users/Uziel/Sites/angularJS/FirstExampleApp.js",
+		"/Users/Uziel/Sites/angularJS/hello_dynamic.html",
+		"/Users/Uziel/Sites/angularJS/RestaurantsDirectory.html",
+		"/Users/Uziel/Sites/angularJS/hello.html",
+		"/Users/Uziel/Sites/angularJS/index.html",
+		"/Users/Uziel/Sites/angularJS/ShoppingCartApp.html",
+		"/Users/Uziel/Sites/angularJS/ShoppingCart/app.js",
+		"/Users/Uziel/Downloads/CrunchyRoll_Downloader_Toolkit_v0.94/crunchy_xml_decoder/input.xml",
+		"/Users/Uziel/Sites/angularJS/controllers.js",
+		"/Users/Uziel/Sites/angularJS/AngularJSDemos/AngularJSDemos/DemoPartials/7. Adding Module Configuration and Routing.html",
+		"/Users/Uziel/Sites/angularJS/AngularJSDemos/AngularJSDemos/Scripts/bootstrap.js",
+		"/Users/Uziel/Sites/angularJS/angularJS.sublime-project",
+		"/Users/Uziel/Sites/angularJS/angularJS.sublime-workspace",
+		"/Users/Uziel/Library/Application Support/Sublime Text 2/Packages/User/JavaScript/script-src.sublime-snippet",
+		"/Users/Uziel/Sites/angularJS/angular.js",
+		"/Users/Uziel/Sites/OOPHP/Base.class.php",
+		"/Users/Uziel/Sites/ReportingServices/js/ReportingServices_2012.js",
+		"/Users/Uziel/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Uziel/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/Uziel/Library/Application Support/Sublime Text 2/Packages/Nettuts+ Fetch/package-metadata.json",
+		"/Users/Uziel/Library/Application Support/Sublime Text 2/Packages/Nettuts+ Fetch/Default.sublime-commands",
+		"/Users/Uziel/Library/Application Support/Sublime Text 2/Packages/User/PHP/class.sublime-snippet",
+		"/Users/Uziel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Uziel/Movies/PHP MVC by JREAM/mvc.tutorial.part.2/mvc/libs/View.php",
+		"/Users/Uziel/Sites/index.php",
+		"/Applications/android-sdk-macosx/samples/android-17/ApiDemos/project.properties",
+		"/Users/Uziel/Sites/HTML5/Sample/index.php",
+		"/Users/Uziel/Sites/HTML5/uploadifive/Sample/index.php",
+		"/Users/Uziel/Sites/HTML5/file_upload.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"70458",
+			"%2F",
+			"uziuiiesld\nuziuiiesld\nuziuiiesld\nuziuiiesld\nuziuiiesld\nuziuiiesld\nuziuiiesld\nuziuiiesld\nuziuiiesld",
+			"function",
+			"uziel",
+			"function",
+			" ",
+			"groupItemCount",
+			"table",
+			"SplitContextMenuConfigString"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"d",
+			"l"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

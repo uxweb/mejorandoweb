@@ -1,0 +1,207 @@
+/*
+	REGLAS DE CODIFICACION EN CSS
+
+	Todas las propiedades en orden alfabetico
+	Orden de estilos
+		*. Pre-render
+		1. Etiquetas
+		2. IDs
+		3. Clases
+
+	3. Orden alfabetico todos los estilos
+	4. Escribir codigo lindo jaja -_-
+*/
+a
+{
+	color: #DD4F24;
+}
+body
+{
+	background: #EFEFEF;
+	color: #4C4C4C;
+	font-family: 'PT Sans', Arial;
+	font-size: 16px;
+	margin: 0;
+	min-width: 480px;
+}
+header
+{
+	background: #434343;
+	color: white;
+	margin: 0;
+	padding: 0.5em;
+}
+header figure, header h1
+{
+	display: inline-block;
+	vertical-align: top;
+}
+header h1
+{
+	font-size: 20px;
+	font-weight: normal;
+	margin: 1em 0 0 1em;
+	width: 60%;
+}
+header #avatar
+{
+	float: right;
+	margin: 1em 1em 0 0;
+}
+header #avatar figcaption
+{
+	background: #22BCE0;
+	float: right;
+	height: 50px;
+	padding: 0 2px;
+}
+header #avatar img
+{
+	float: left;
+	width: 50px;
+}
+header #logo img
+{
+	width: 80px;
+}
+nav
+{
+	background-color: #878787;
+	font-size: 0.9em;
+	position: relative;
+}
+nav ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+nav ul li
+{
+	display: inline-block;
+	margin: 0 1.2em 0 0;
+	vertical-align: top;
+}
+nav ul li a
+{
+	color: white;
+	display: block;
+	padding: 0.5em 0;
+}
+nav #flechita_nav a
+{
+	background: #22BCE0;
+	padding: 0.5em;
+	text-decoration: none;
+}
+nav #home_nav
+{
+	background: #22BCE0;
+	border-radius: 0.5em 0.5em 0 0;
+	margin-right: 0;
+	position: absolute;
+	bottom: 100%;
+}
+nav #home_nav a
+{
+	padding: 0.2em 1em;
+	text-decoration: none;
+}
+nav #publicar_nav
+{
+	float: right;
+	margin-right: 0;
+}
+nav #publicar_nav a
+{
+	background: #DD4F24;
+	padding: 0.5em 1em;
+	text-decoration: none;
+}
+#contenido
+{
+	margin: 1em;
+}
+#contenido .item
+{
+	background-color: white;
+	border-bottom: 3px solid #16AED9;
+	margin-bottom: 3em;
+	min-height: 128px;
+	position: relative;
+}
+#contenido .item p
+{
+	color: #7A7A7A;
+	font-size: 0.9em;
+}
+#contenido .datos_item
+{
+	text-align: right;
+}
+#contenido .datos_item .comentarios_item
+{
+	background-color: #676667;
+	border-radius: 2px;
+	color: white;
+	margin: 0 0 0 2em;
+	padding: 4px;
+	text-decoration: none;
+}
+#contenido .datos_item .guardar_item
+{
+	margin: 0 1em 0 1em;
+	text-decoration: none;
+}
+#contenido .item .datos_item .tag_item
+{
+	background: #22BCE0;
+	border-radius: 0.5em;
+	color: white;
+	float: left;
+	padding: 0.2em 0.5em;
+	text-decoration: none;
+}
+#contenido .item .imagen_item
+{
+	float: left;
+	margin: 0 1em 0 0;
+}
+#contenido .item .imagen_item img
+{
+	width: 95px;
+}
+#contenido .item .titulo_item
+{
+	font-size: 1rem;
+	font-style: italic;
+	padding: 0.5em 0.5em 0;
+}
+#contenido .item .titulo_item a
+{
+	color: #444;
+	text-decoration: none;
+}
+#contenido .votacion
+{
+	background-color: white;
+	border-radius: 0 0 0.2em 0.2em;
+	margin-top: 3px;
+	padding: 0.2em 0;
+	position: absolute;
+	text-align: center;
+	top: 100%;
+	width: 95px;
+}
+#contenido .votacion a
+{
+	text-decoration: none;
+}
+#contenido .votacion .up
+{
+	color: green;
+}
+#contenido .votacion .down
+{
+	color: red;
+}
